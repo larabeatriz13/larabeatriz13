@@ -5,7 +5,7 @@
 <br>
 Hi! I'm Lara Beatriz, future frontend developer.
 <br>
-Learning: JavaScript, Vue.js, scss, c, react and more.
+Learning: JavaScript, Vue.js, sass, c, react and more.
 <br>
  I'm 17y
  
